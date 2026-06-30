@@ -1,0 +1,99 @@
+# Mun quant society Web Client App
+
+Frontend web application for Mun Quant Society.
+
+Built using React, TypeScript, and Vite.
+
+---
+
+# MUST READ
+
+Before contributing or committing any code, please read:
+
+- [Git Workflow](docs/git-flow.md)
+- [Environment Variables](docs/env.md)
+
+This helps keep the repository history clean and reduces merge conflicts during development.
+
+---
+
+## Stack
+
+- React
+- TypeScript
+- Vite
+- ESLint
+- Prettier
+
+---
+
+## Development
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+### Build Project
+
+```bash
+npm run build
+```
+
+### Lint
+
+```bash
+npm run lint
+```
+
+### Format
+
+```bash
+npm run format
+```
+
+---
+
+## Documentation
+
+Project-specific configuration and setup guides are located in `docs/`.
+
+- Environment Variables  
+  [Environment Variables](docs/env.md)
+
+- Prettier  
+  [Prettier Docs](docs/prettier.md)
+
+- Git Work Flow
+  [Git Workflow](docs/git-flow.md)
+
+---
+
+## Project Structure
+
+```txt
+src/
+docs/
+public/
+```
+
+---
+
+## Notes
+
+- Formatting is handled using Prettier
+- Linting is handled using ESLint
+- Additional tooling and feature documentation will be added under `docs/`
+
+---
+
+## License
+
+`./LICENSE`
